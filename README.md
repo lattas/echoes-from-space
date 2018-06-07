@@ -4,6 +4,11 @@ Presented at [ICSE 2018](https://www.icse2018.org/event/icse-2018-software-engin
 
 This repository contains the paper and the media accompanying the paper. The source code of the algorithms will be published soon. During the course of the follow-up work, a GUI designer tool, based on Echoes From Space, will be also published.
 
+### Links
+* [Preprint](https://www2.dmst.aueb.gr/dds/pubs/conf/2018-ICSE-SEIP-cmd-optimize/html/cmd-optimize.pdf)
+* [Poster](https://github.com/lattas/echoes-from-space/blob/master/doc/poster.jpg)
+* [Presentation](https://github.com/lattas/echoes-from-space/blob/master/doc/presentation.pdf)
+
 ![Echoes from Space Poster](https://github.com/lattas/echoes-from-space/blob/master/doc/poster.jpg "Echoes from Space Poster")
 
 ### Abstract
